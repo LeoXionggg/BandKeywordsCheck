@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrandKeywordsCheck", "BandKeywordsCheck\BrandKeywordsCheck.csproj", "{AAC746C0-44DF-4783-8C72-F34504886E53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spider_demo", "spider_demo\spider_demo.csproj", "{F089F7BD-2C45-46F0-A162-1AFBD5E5ED7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AAC746C0-44DF-4783-8C72-F34504886E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAC746C0-44DF-4783-8C72-F34504886E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAC746C0-44DF-4783-8C72-F34504886E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F089F7BD-2C45-46F0-A162-1AFBD5E5ED7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F089F7BD-2C45-46F0-A162-1AFBD5E5ED7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F089F7BD-2C45-46F0-A162-1AFBD5E5ED7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F089F7BD-2C45-46F0-A162-1AFBD5E5ED7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
